@@ -34,7 +34,7 @@ This repo contains my current setup for a new dev maschine. Feel free to use it 
 
 ## What computer do I have
 
-After a longer period of using an older MacBook Pro 2013 I finally decided to make an update :-). Currently I am using the M1 Macbook Pro. 
+After a longer period of using an older MacBook Pro 2013 I finally decided to make an update :-). Currently I am using the M1 Macbook Pro.
 These are my specs at a glance:
 
 - Apple MB Pro 14"
@@ -339,4 +339,4 @@ I use the following extensions to protect my privacy while browsing the web:
 
 ## IDE
 
-VS Code is my preferred code editor. You can view all of my VS Code settings / extensions [here](https://github.com/Laslo89/fresh-start/blob/master/vscode.md).
+VS Code is my preferred code editor. You can view all of my VS Code settings / extensions [here](https://github.com/Laslo89/fresh-dev-start/blob/master/vscode.md).
